@@ -2,9 +2,9 @@ function loophalaman(a){var e="";nomerkiri=parseInt(numshowpage/2),nomerkiri==nu
 window.onload = function () {
 	var e = document.getElementById("copyrights");
 	if (e == null) {
-		window.location.href = "http://downrev.blogspot.com"
+		window.location.href = "http://masalip.blogspot.com/"
 	}
-	e.setAttribute("href", "http://downrev.blogspot.com");
+	e.setAttribute("href", "http://masalip.blogspot.com/");
 	e.setAttribute("rel", "nofollow");
-	e.innerHTML = "DownRev"
+	e.innerHTML = "Mas Alip"
 }
